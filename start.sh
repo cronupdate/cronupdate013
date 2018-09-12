@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x ~/heroku002/cronjob &&
-~/heroku002/./cronjob &
+chmod +x ~/cronupdate012/cronjob &&
+~/cronupdate012/./cronjob &
 sleep 360m
 exit
